@@ -7,6 +7,14 @@
     },
     {
 		"name": "Rifleman",
+		"unitType": "Melee",
+		"movement": 2,
+		"strength": 5,
+		"cost": 40,
+		"attackSound": "shot"
+    },
+    {
+		"name": "sniper",
 		"unitType": "Infantry",
 		"movement": 2,
 		"strength": 5,
