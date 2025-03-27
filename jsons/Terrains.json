@@ -2,7 +2,7 @@
 	{
 		"name": "Grassland",
 		"type": "Land",
-		"food": 1,
+		"food": 2,
 		"movementCost": 1,
         "RGB": [0, 163, 0],
         "uniques": []
@@ -10,7 +10,7 @@
 	{
 		"name": "Ocean",
 		"type": "Water",
-		"food": 1,
+		"food": 2,
 		"movementCost": 1,
         "RGB": [0, 100, 255],
         "uniques": []
@@ -18,7 +18,7 @@
 	{
 		"name": "Plains",
 		"type": "Land",
-		"food": 1,
+		"food": 2,
 		"movementCost": 1,
         "RGB": [163, 0, 0],
         "uniques": []
@@ -26,7 +26,7 @@
 	{
 		"name": "Tundra",
 		"type": "Land",
-		"food": 1,
+		"food": 2,
 		"movementCost": 1,
         "RGB": [0, 0, 163],
         "uniques": []
