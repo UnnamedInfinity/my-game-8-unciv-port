@@ -53,7 +53,7 @@
 		"outerColor": [0,139,0],
 		"innerColor": [0,0,0],
 		"uniqueName": "rah",
-		"uniques": ["[+10000] Culture in all cities"],
+		"uniques": ["[+10000 Culture] [in all cities]"],
 		"cities": ["mmm","Frooaross","Hraun","Geirhildarvatn","Dumbshaf","Leioolfsstaoir","Hraunsass","Mosfell","Geirmundarstaoir","Holmgaror","Selaeyrr",
 "Horga","Fellshverfi","Kalfborgara","Reykir inir efri","Bolstaor","Beruvikrhraun","Berghylr","Rauosgil"]
 	},
