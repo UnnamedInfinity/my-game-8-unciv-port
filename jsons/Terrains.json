@@ -7,4 +7,12 @@
         "RGB": [0, 163, 0],
         "uniques": []
     }
+	{
+		"name": "water",
+		"type": "Water",
+		"food": 1,
+		"movementCost": 1,
+        "RGB": [0, 100, 255],
+        "uniques": []
+    }
 ]
