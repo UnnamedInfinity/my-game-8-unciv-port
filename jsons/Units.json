@@ -7,7 +7,7 @@
     },
     {
 		"name": "Rifleman",
-		"unitType": "Melee",
+		"unitType": "Infantry",
 		"movement": 2,
 		"strength": 5,
 		"cost": 40,
