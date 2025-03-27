@@ -14,13 +14,13 @@
 		"attackSound": "shot"
     },
     {
-		"name": "sniper",
+		"name": "Artillery",
 		"unitType": "Infantry",
 		"movement": 2,
 		"strength": 5,
         "range": 2,
 		"rangedStrength": 7,
-		"cost": 40,
+		"cost": 50,
 		"attackSound": "shot"
 	}
 ]
