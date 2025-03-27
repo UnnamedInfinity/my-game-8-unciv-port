@@ -45,16 +45,16 @@
 
 		"startIntroPart1": "Sample text.",
 		"startIntroPart2": "Sample text",
-		"declaringWar": "It is in  my Intentions to spread the word of Nod into your land.",
+		"declaringWar": "adios",
 		"attacked": "Pitiful fool! Now we shall destroy you!",
 		"defeated": "I see for the black hand has been unworthy to serve Kane.",
-		"introduction": "If you would stay out of our way then you might live to tell your tale.",
+		"introduction": "bonne journee amigo",
 		"tradeRequest": "I would be grateful if you agreed on the following proposal.",
-		"outerColor": [139,0,0],
+		"outerColor": [0,139,0],
 		"innerColor": [0,0,0],
-		"uniqueName": "Purification",
-		"uniques": ["No damage penalty for wounded units <for [non-air] units>"],
-		"cities": ["Ketilsstaoir","Frooaross","Hraun","Geirhildarvatn","Dumbshaf","Leioolfsstaoir","Hraunsass","Mosfell","Geirmundarstaoir","Holmgaror","Selaeyrr",
+		"uniqueName": "rah",
+		"uniques": ["[+10000] Culture in all cities"],
+		"cities": ["mmm","Frooaross","Hraun","Geirhildarvatn","Dumbshaf","Leioolfsstaoir","Hraunsass","Mosfell","Geirmundarstaoir","Holmgaror","Selaeyrr",
 "Horga","Fellshverfi","Kalfborgara","Reykir inir efri","Bolstaor","Beruvikrhraun","Berghylr","Rauosgil"]
 	},
 	{
@@ -67,13 +67,13 @@
 		"declaringWar": "It is in  my Intentions to spread the word of Nod into your land.",
 		"attacked": "Pitiful fool! Now we shall destroy you!",
 		"defeated": "I see for the black hand has been unworthy to serve Kane.",
-		"introduction": "If you would stay out of our way then you might live to tell your tale.",
+		"introduction": "innit bruv",
 		"tradeRequest": "I would be grateful if you agreed on the following proposal.",
-		"outerColor": [139,0,0],
-		"innerColor": [0,0,0],
-		"uniqueName": "Purification",
-		"uniques": ["No damage penalty for wounded units <for [non-air] units>"],
-		"cities": ["Ketilsstaoir","Frooaross","Hraun","Geirhildarvatn","Dumbshaf","Leioolfsstaoir","Hraunsass","Mosfell","Geirmundarstaoir","Holmgaror","Selaeyrr",
+		"outerColor": [0,0,255],
+		"innerColor": [255,255,0],
+		"uniqueName": "crispy",
+		"uniques": ["No damage penalty for wounded units <for [air] units>"],
+		"cities": ["Berlin","Cerlin","Derlin","Ferlin","Herlin","Jerlin","Portland","Mosfell","Geirmundarstaoir","Holmgaror","Selaeyrr",
 "Horga","Fellshverfi","Kalfborgara","Reykir inir efri","Bolstaor","Beruvikrhraun","Berghylr","Rauosgil"]
 	}
 ]
