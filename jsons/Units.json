@@ -11,7 +11,7 @@
 		"name": "Rifleman",
 		"unitType": "Infantry",
 		"movement": 2,
-		"strength": 5,
+		"strength": 8,
 		"cost": 40,
 		"attackSound": "shot"
     },
@@ -19,9 +19,9 @@
 		"name": "Artillery",
 		"unitType": "Infantry",
 		"movement": 2,
-		"strength": 5,
+		"strength": 6,
         	"range": 2,
-		"rangedStrength": 7,
+		"rangedStrength": 8,
 		"cost": 50,
 		"attackSound": "shot"
 	}
