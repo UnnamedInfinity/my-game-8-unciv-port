@@ -1,0 +1,16 @@
+[
+  {
+		"name": "Capital Building",
+		"isNationalWonder": true,
+		"cost": 1,
+		"production": 2,
+		"gold": 5,
+		"science": 2,
+		"culture": 1,
+		"happiness": 2,
+		"cityStrength": 6,
+		"uniques": [
+			"Indicates the capital city",
+		],
+	},
+]
