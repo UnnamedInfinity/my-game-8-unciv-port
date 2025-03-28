@@ -68,7 +68,7 @@
 				"row": 3,
 				"quote": "'i just woke up in a new bugatti' - some guy",
         			"prerequisites": ["digging"],
-				"uniques": ["[+5 Faith] in all cities"],
+				"uniques": ["[+5 Faith] [in all cities]"],
 				"civilopediaText": [
 					{
 						"text": "i just woke up in a new bugatti"
