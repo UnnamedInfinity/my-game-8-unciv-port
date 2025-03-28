@@ -4,7 +4,7 @@
         "unitType": "Civilian",
         "movement": 2,
 	"cost": 40,
-	"requiredTech": ["Tribalism"],
+	"requiredTech": "Tribalism",
         "uniques": ["Founds a new city <by consuming this unit>","Requires at least [2] population"]
     },
     {
@@ -20,7 +20,7 @@
 		"unitType": "Infantry",
 		"movement": 2,
 		"strength": 5,
-        "range": 2,
+        	"range": 2,
 		"rangedStrength": 7,
 		"cost": 50,
 		"attackSound": "shot"
