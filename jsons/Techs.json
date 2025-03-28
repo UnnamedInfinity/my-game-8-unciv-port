@@ -31,7 +31,7 @@
 				"name": "Tribalism",
 				"row": 0,
 				"quote": "'i just woke up in a new bugatti' - some guy",
-        "prerequisites": ["digging"],
+        			"prerequisites": ["digging"],
 				"uniques": [""],
 				"civilopediaText": [
 					{
@@ -43,7 +43,7 @@
 				"name": "Gathering",
 				"row": 1,
 				"quote": "'i just woke up in a new bugatti' - some guy",
-        "prerequisites": ["digging"],
+        			"prerequisites": ["digging"],
 				"uniques": ["[+1 Production] [in all cities]"],
 				"civilopediaText": [
 					{
@@ -55,7 +55,7 @@
 				"name": "Sharp Sticks",
 				"row": 2,
 				"quote": "'i just woke up in a new bugatti' - some guy",
-        "prerequisites": ["digging"],
+        			"prerequisites": ["digging"],
 				"uniques": ["[+10]% Strength <for [All] units> <when attacking>", "[+10]% Strength <for [All] units> <when defending>"],
 				"civilopediaText": [
 					{
@@ -67,7 +67,7 @@
 				"name": "Pottery",
 				"row": 3,
 				"quote": "'i just woke up in a new bugatti' - some guy",
-        "prerequisites": ["digging"],
+        			"prerequisites": ["digging"],
 				"uniques": ["[+5 Faith] in all cities"],
 				"civilopediaText": [
 					{
@@ -88,6 +88,7 @@
 				"name": "Stone Tools",
 				"row": 2,
 				"quote": "'i just woke up in a new bugatti' - some guy",
+				"prerequisites": ["Tribalism", "Gathering", "Sharp Sticks", "Pottery"],
 				"uniques": [""],
 				"civilopediaText": [
 					{
