@@ -3,7 +3,7 @@
 	{
 		"columnNumber": 0,
 		"era": "Dirt Age",
-		"techCost": 2,
+		"techCost": 10,
 		"buildingCost": 40,
 		"wonderCost": 180,
 		"techs": [
@@ -23,7 +23,7 @@
   {
 		"columnNumber": 1,
 		"era": "Dirt Age",
-		"techCost": 2,
+		"techCost": 10,
 		"buildingCost": 40,
 		"wonderCost": 180,
 		"techs": [
@@ -81,7 +81,7 @@
   {
 		"columnNumber": 2,
 		"era": "Stone Age",
-		"techCost": 5,
+		"techCost": 25,
 		"buildingCost": 40,
 		"wonderCost": 180,
 		"techs": [
